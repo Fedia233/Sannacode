@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "474256285080",
+    "firebase_url": "https://sannacode-38cf5.firebaseio.com",
+    "project_id": "sannacode-38cf5",
+    "storage_bucket": "sannacode-38cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474256285080:android:b1abfbeedd02691f",
+        "android_client_info": {
+          "package_name": "com.sannacode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474256285080-a2f46t7m0me2gdo6av2ft6pagfd1q16v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sannacode",
+            "certificate_hash": "5668ff0fb19857304bef0ecb23f8b73b905f59bc"
+          }
+        },
+        {
+          "client_id": "474256285080-rfklaa9ae4h71s364tto49rh0hanovrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASuzqFg3p9kvm_61zwCDIvXPIS6EGSWO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474256285080-rfklaa9ae4h71s364tto49rh0hanovrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
